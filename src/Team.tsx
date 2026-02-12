@@ -108,4 +108,3 @@ export default function Team() {
 }
 ```
 
-Simply copy this entire code and paste it into your `src/pages/Team.tsx` file. That's it! 🎉// Updated Team.tsx code will go here
