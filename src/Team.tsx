@@ -1,4 +1,4 @@
-```tsx name=Team.tsx
+
 import { StaticLayout } from "@/components/layouts/StaticLayout";
 import { motion } from "framer-motion";
 import { Github, Linkedin, Twitter } from "lucide-react";
