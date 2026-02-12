@@ -7,7 +7,7 @@ const team = [
     { name: "Harsh Saxena", role: "UI/UX Visionary", bio: "Pioneering interactive design systems that prioritize cognitive clarity and user delight." },
     { name: "Rajat Gupta", role: "Full Stack Engineer", bio: "Expert in bridging complex backend logic with fluid, high-performance frontend experiences." },
     { name: "Sakshi", role: "Product Strategist", bio: "Translating institutional requirements into actionable, user-centric product roadmaps." },
-    { name: "Mehak", role: "Quality Assurance Lead", bio: "Ensuring flawless user experiences through rigorous testing and quality standards." }
+    { name: "Mehak", role: "Quality Assurance Lead", bio: "Ensuring flawless user experiences through rigorous testing and quality standards." },
     { name: "Mantavya Kumar", role: "Deployment and Maintenance", bio: "Handles deployment and maintenance for continued secure services." }
 
 ];
